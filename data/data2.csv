@@ -1,0 +1,73 @@
+Age group (years),Gender,Location,Percentage
+0-4,Males,Capital cities ,2.96
+0-4,Males,Rest of Australia ,2.84
+0-4,Females,Capital cities ,2.81
+0-4,Females,Rest of Australia ,2.69
+5-9,Males,Capital cities ,3.13
+5-9,Males,Rest of Australia ,3.07
+5-9,Females,Capital cities ,2.95
+5-9,Females,Rest of Australia ,2.89
+10-14,Males ,Capital cities ,3.15
+10-14,Males ,Rest of Australia ,3.3
+10-14,Females,Capital cities ,2.99
+10-14,Females,Rest of Australia ,3.1
+15-19,Males ,Capital cities ,3.1
+15-19,Males ,Rest of Australia ,3.16
+15-19,Females,Capital cities ,2.91
+15-19,Females,Rest of Australia ,2.94
+20-24,Males,Capital cities ,3.63
+20-24,Males,Rest of Australia ,2.81
+20-24,Females,Capital cities ,3.39
+20-24,Females,Rest of Australia ,2.58
+25-29,Males,Capital cities ,4
+25-29,Males,Rest of Australia ,2.96
+25-29,Females,Capital cities ,3.88
+25-29,Females,Rest of Australia ,2.9
+30-34,Males,Capital cities ,3.98
+30-34,Males,Rest of Australia ,3.09
+30-34,Females,Capital cities ,4.05
+30-34,Females,Rest of Australia ,3.15
+35-39,Males,Capital cities ,3.88
+35-39,Males,Rest of Australia ,3.05
+35-39,Females,Capital cities ,3.92
+35-39,Females,Rest of Australia ,3.14
+40-44,Males,Capital cities ,3.5
+40-44,Males,Rest of Australia ,2.91
+40-44,Females,Capital cities ,3.54
+40-44,Females,Rest of Australia ,3.03
+45-49,Males,Capital cities ,3.06
+45-49,Males,Rest of Australia ,2.87
+45-49,Females ,Capital cities ,3.12
+45-49,Females,Rest of Australia ,2.95
+50-54,Males,Capital cities ,3.05
+50-54,Males,Rest of Australia ,3.2
+50-54,Females,Capital cities ,3.16
+50-54,Females ,Rest of Australia ,3.29
+55-59,Males ,Capital cities ,2.68
+55-59,Males,Rest of Australia ,3.07
+55-59,Females,Capital cities ,2.78
+55-59,Females,Rest of Australia ,3.18
+60-64,Males,Capital cities ,2.51
+60-64,Males,Rest of Australia ,3.31
+60-64,Females ,Capital cities ,2.67
+60-64,Females,Rest of Australia ,3.46
+65-69,Males,Capital cities ,2.09
+65-69,Males,Rest of Australia ,3.03
+65-69,Females,Capital cities ,2.33
+65-69,Females,Rest of Australia ,3.13
+70-74,Males,Capital cities ,1.77
+70-74,Males,Rest of Australia ,2.71
+70-74,Females,Capital cities ,2.02
+70-74,Females,Rest of Australia ,2.76
+75-79,Males,Capital cities ,1.44
+75-79,Males,Rest of Australia ,2.15
+75-79,Females,Capital cities ,1.64
+75-79,Females,Rest of Australia ,2.21
+80-84,Males,Capital cities ,0.89
+80-84,Males,Rest of Australia ,1.26
+80-84,Females,Capital cities ,1.07
+80-84,Females,Rest of Australia ,1.4
+85+,Males,Capital cities ,0.77
+85+,Males,Rest of Australia ,0.99
+85+,Females ,Capital cities ,1.19
+85+,Females ,Rest of Australia ,1.42
