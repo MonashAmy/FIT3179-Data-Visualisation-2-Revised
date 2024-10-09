@@ -1,79 +1,79 @@
 Year,Type of Households,Households
-2021,Family households," 6,950,688 "
-2021,Group households," 405,672 "
-2021,Lone person households," 2,637,520 "
-2022,Family households," 7,025,067 "
-2022,Group households," 403,494 "
-2022,Lone person households," 2,670,217 "
-2023,Family households," 7,152,067 "
-2023,Group households," 414,121 "
-2023,Lone person households," 2,722,940 "
-2024,Family households," 7,262,388 "
-2024,Group households," 423,261 "
-2024,Lone person households," 2,770,314 "
-2025,Family households," 7,373,634 "
-2025,Group households," 432,505 "
-2025,Lone person households," 2,816,782 "
-2026,Family households," 7,482,235 "
-2026,Group households," 442,274 "
-2026,Lone person households," 2,863,093 "
-2027,Family households," 7,591,839 "
-2027,Group households," 450,842 "
-2027,Lone person households," 2,915,882 "
-2028,Family households," 7,699,268 "
-2028,Group households," 459,489 "
-2028,Lone person households," 2,966,630 "
-2029,Family households," 7,804,924 "
-2029,Group households," 467,760 "
-2029,Lone person households," 3,016,253 "
-2030,Family households," 7,909,901 "
-2030,Group households," 475,506 "
-2030,Lone person households," 3,064,388 "
-2031,Family households," 8,011,192 "
-2031,Group households," 483,016 "
-2031,Lone person households," 3,111,834 "
-2032,Family households," 8,109,563 "
-2032,Group households," 489,832 "
-2032,Lone person households," 3,162,851 "
-2033,Family households," 8,207,359 "
-2033,Group households," 496,612 "
-2033,Lone person households," 3,212,097 "
-2034,Family households," 8,304,804 "
-2034,Group households," 502,848 "
-2034,Lone person households," 3,259,688 "
-2035,Family households," 8,402,146 "
-2035,Group households," 508,492 "
-2035,Lone person households," 3,305,966 "
-2036,Family households," 8,497,565 "
-2036,Group households," 514,016 "
-2036,Lone person households," 3,351,857 "
-2037,Family households," 8,594,095 "
-2037,Group households," 518,050 "
-2037,Lone person households," 3,400,700 "
-2038,Family households," 8,688,313 "
-2038,Group households," 521,675 "
-2038,Lone person households," 3,448,341 "
-2039,Family households," 8,780,680 "
-2039,Group households," 525,068 "
-2039,Lone person households," 3,494,692 "
-2040,Family households," 8,871,093 "
-2040,Group households," 527,921 "
-2040,Lone person households," 3,539,804 "
-2041,Family households," 8,959,628 "
-2041,Group households," 530,882 "
-2041,Lone person households," 3,584,793 "
-2042,Family households," 9,046,292 "
-2042,Group households," 533,913 "
-2042,Lone person households," 3,628,447 "
-2043,Family households," 9,129,618 "
-2043,Group households," 536,390 "
-2043,Lone person households," 3,670,772 "
-2044,Family households," 9,210,904 "
-2044,Group households," 538,915 "
-2044,Lone person households," 3,712,371 "
-2045,Family households," 9,289,762 "
-2045,Group households," 541,395 "
-2045,Lone person households," 3,753,086 "
-2046,Family households," 9,367,465 "
-2046,Group households," 543,688 "
-2046,Lone person households," 3,793,488 "
+2021,Family households,6950688
+2021,Group households,405672
+2021,Lone person households,2637520
+2022,Family households,7025067
+2022,Group households,403494
+2022,Lone person households,2670217
+2023,Family households,7152067
+2023,Group households,414121
+2023,Lone person households,2722940
+2024,Family households,7262388
+2024,Group households,423261
+2024,Lone person households,2770314
+2025,Family households,7373634
+2025,Group households,432505
+2025,Lone person households,2816782
+2026,Family households,7482235
+2026,Group households,442274
+2026,Lone person households,2863093
+2027,Family households,7591839
+2027,Group households,450842
+2027,Lone person households,2915882
+2028,Family households,7699268
+2028,Group households,459489
+2028,Lone person households,2966630
+2029,Family households,7804924
+2029,Group households,467760
+2029,Lone person households,3016253
+2030,Family households,7909901
+2030,Group households,475506
+2030,Lone person households,3064388
+2031,Family households,8011192
+2031,Group households,483016
+2031,Lone person households,3111834
+2032,Family households,8109563
+2032,Group households,489832
+2032,Lone person households,3162851
+2033,Family households,8207359
+2033,Group households,496612
+2033,Lone person households,3212097
+2034,Family households,8304804
+2034,Group households,502848
+2034,Lone person households,3259688
+2035,Family households,8402146
+2035,Group households,508492
+2035,Lone person households,3305966
+2036,Family households,8497565
+2036,Group households,514016
+2036,Lone person households,3351857
+2037,Family households,8594095
+2037,Group households,518050
+2037,Lone person households,3400700
+2038,Family households,8688313
+2038,Group households,521675
+2038,Lone person households,3448341
+2039,Family households,8780680
+2039,Group households,525068
+2039,Lone person households,3494692
+2040,Family households,8871093
+2040,Group households,527921
+2040,Lone person households,3539804
+2041,Family households,8959628
+2041,Group households,530882
+2041,Lone person households,3584793
+2042,Family households,9046292
+2042,Group households,533913
+2042,Lone person households,3628447
+2043,Family households,9129618
+2043,Group households,536390
+2043,Lone person households,3670772
+2044,Family households,9210904
+2044,Group households,538915
+2044,Lone person households,3712371
+2045,Family households,9289762
+2045,Group households,541395
+2045,Lone person households,3753086
+2046,Family households,9367465
+2046,Group households,543688
+2046,Lone person households,3793488
